@@ -14,6 +14,7 @@ public class contactTest {
 	{
 		System.out.println("contact is modified ");
 		System.out.println("hi");
+		System.out.println("hello");
 	}
 	@Test
 	public void contactmified()
